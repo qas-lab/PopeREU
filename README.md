@@ -1,6 +1,4 @@
-# Bug Destiny Prediction in Large Open-Source
-Software Repositories through Sentiment Analysis
-and BERT Topic Modeling
+# Bug Destiny Prediction in Large Open-Source Software Repositories through Sentiment Analysis and BERT Topic Modeling
 ------------
 ## Getting Started
 ```bash
